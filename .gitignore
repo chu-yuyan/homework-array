@@ -1,0 +1,24 @@
+# VS 文件
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.db
+*.opendb
+*.ipch
+
+# 编译输出
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+*.exe
+*.dll
+*.ilk
+*.pdb
+
+# C++ 特定
+*.o
+*.out
